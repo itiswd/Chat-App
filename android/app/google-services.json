@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082812033662",
+    "project_id": "himo-chat-e0450",
+    "storage_bucket": "himo-chat-e0450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082812033662:android:b4950ca951238c90cec62f",
+        "android_client_info": {
+          "package_name": "com.example.himochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082812033662-5hqvknn4c98l4tmo8v1q2uq63l6ule2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLOMQMAjjj1DHOGoV3wmLrDnFPSsLK08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082812033662-5hqvknn4c98l4tmo8v1q2uq63l6ule2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
